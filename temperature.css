@@ -1,0 +1,33 @@
+body{
+}
+
+.state{
+	font-size:25px;
+	margin:0px 565px;
+}
+
+#find {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+	margin: 20px 80px;
+    cursor: pointer;
+}
+
+
+#main{
+	padding-left: 30px;
+	margin: 80px 500px;
+}
+	
+h3{
+	text-align:center;
+	font-size: 50px;
+	color: #ffffff;
+	padding-left:20px;
+}
